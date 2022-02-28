@@ -1,0 +1,182 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A panegyrick on the most auspicious and long-wish'd-for return of the great example of the greatest virtue, the faithful Achates of our royal Charles, the tutelar angel (as we justly hope) of our church and state, the most illustrious James Duke, Marquess, and Earl of Ormond, &amp;c. Lord Lieutenant and General Governour of His Majesties Kingdom of Ireland, His Grace. / By F.S.</title>
+            <author>Synge, Francis.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1661</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A94190</idno>
+            <idno type="STC">Wing S6382</idno>
+            <idno type="STC">ESTC R184784</idno>
+            <idno type="EEBO-CITATION">45578462</idno>
+            <idno type="OCLC">ocm 45578462</idno>
+            <idno type="VID">172376</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A94190)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 172376)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2627:30)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A panegyrick on the most auspicious and long-wish'd-for return of the great example of the greatest virtue, the faithful Achates of our royal Charles, the tutelar angel (as we justly hope) of our church and state, the most illustrious James Duke, Marquess, and Earl of Ormond, &amp;c. Lord Lieutenant and General Governour of His Majesties Kingdom of Ireland, His Grace. / By F.S.</title>
+                  <author>Synge, Francis.</author>
+               </titleStmt>
+               <extent>[2], 12 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Crook, printer to the Kings most Excellent Majesty, for Sam. Dancer, bookseller in Castlestreet,</publisher>
+                  <pubPlace>Dublin, :</pubPlace>
+                  <date>[1661]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Page 12 signed: Francis Synge.</note>
+                  <note>Date of publication suggested by Wing.</note>
+                  <note>Reproduction of original in the Trinity College Library (Dublin, Ireland).</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>James --  II, --  King of England, 1633-1701.</term>
+               <term>Great Britain --  History --  Restoration, 1660-1688.</term>
+               <term>Ireland --  History --  1660-1690.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2010-08</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:172376:1" rendition="simple:additions"/>
+            <pb facs="tcp:172376:1" rendition="simple:additions"/>
+            <p>A PANEGYRICK On the Moſt Auſpicious and long-wiſh'd-for Return OF The Great EXAMPLE of the Greateſt Virtue, The FAITHFUL
+<hi>ACHATES</hi> Of Our ROYAL <hi>CHARLES,</hi> AND The Tutelar Angel (as we juſtly hope) of our CHURCH and STATE,</p>
+            <p>The Moſt Illuſtrious JAMES Duke, Marqueſs, and Earl of ORMOND, &amp;c. Lord Lieutenant and General Governour of His Majeſties Kingdom of <hi>Ireland,</hi> His Grace.</p>
+            <p>BY <hi>F. S.</hi>
+            </p>
+            <q>
+               <l>Nemo confidet nimium ſecundis</l>
+               <l>Nemo desperet Meliora lapſis.</l>
+               <bibl>Seneca.</bibl>
+            </q>
+            <q>
+               <l>—Deus nobis haec otia fecit.</l>
+               <bibl>Virg.</bibl>
+            </q>
+            <p>
+               <hi>Dublin,</hi> Printed by <hi>John Crook,</hi> Printer to the Kings moſt Ex<g ref="char:EOLhyphen"/>cellent Majeſty, for <hi>Sam. Dancer,</hi> Bookſeller in
+<hi>Caſtleſtreet.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:172376:2"/>
+            <pb n="1" facs="tcp:172376:2"/>
+            <head>A Panegyrick To the Moſt Illuſtrious JAMES Duke, Marqueſs, and Earl of ORMOND. Lord Lieutenant, and General Gover<g ref="char:EOLhyphen"/>nour of His MAJESTIES KINGDOM of IRELAND, His GRACE.</head>
+            <p>TO ſpeak Your Welcome (moſt Illuſtrious Sir) in as high a Key as our Hearts conceive it, is as nigh a kin to an impoſſibility, as to ſpeak Your Merit: The one, the unkinde Fate of our feeble Organs deny us to reach unto, the other the expanded Glory of Your Heroick Actions, and the unex<g ref="char:EOLhyphen"/>emplar'd Magnanimity of Your Great Soul, will not admit.
+<pb n="2" facs="tcp:172376:3" rendition="simple:additions"/>Yet herein do we finde our Wants reprized, whilſt Heaven ſweet<g ref="char:EOLhyphen"/>ly indulging our Inabilities, looks on the Quality, not Quantity of our Returns, and from an humble grateful Heart, values the cheerful Sacrifice of a pair of Mites, more then the hidden-Treaſures of the lower World. If Heaven then be ſo propitious to the incurable Malady of our Natures, how can we deſpair of a candid Acceptation from You who are her Favorite, and One who in the various Aſſaults of the moſt imminent Dangers, and ſevereſt Temptations, have born the ſignal Impreſs and Chara<g ref="char:EOLhyphen"/>cter of her Love and Favour. Were not this true, this happy hour had ne'er been ours, that now ſeems to ſecure our Harveſt of Joy for our Seed of Tears, and Promiſes us as much of Earth<g ref="char:EOLhyphen"/>ly Foelicity, as can poſſibly be expected under the beſt of Kings, and the beſt of Subjects. Think not then (moſt redoubted Sir) our Duties Flattery, nor the dilated Joys of our Loyal Hearts, a Deſign upon Your Power: Let thoſe that juggle with their Allegiance, that Obey becauſe 'tis not ſafe for them to Rebel, and love their King, Religion and Laws, becauſe they dare not do otherwiſe, feel the ſmart Effects of that; whilſt we loſe our Selves in the Contemplation of that Bleſſing we have received; a Bleſſing of that miraculous Magnitude, that our Poſterity muſt have the Influence, We onely the Wonder. Thus <hi>Zion</hi>'s Captivity when revers'd, became a Dream, being (like ours) ſo far above their Merit, or their Expectation, that it was above the Capacity of their ſubtileſt Faculty to believe it Real. Con<g ref="char:EOLhyphen"/>traries put together (ſaith the Philoſopher) are their own beſt Illuſtration, and if we be not afraid to look back upon our for<g ref="char:EOLhyphen"/>mer Bondage, it may perhaps endear the Bleſſing of our Re<g ref="char:EOLhyphen"/>demption the more unto us, by how much we diſpair'd of ever ſeeing it effected. What rigid Stoick can reflect on our paſt Diſtractions, without Diſtraction? Three Kingdoms which for Riches, Strength and Policy, were no way inferiour to the greateſt of
+<hi>Europe,</hi> how have we ſeen (like <hi>Joſeph</hi>) ſold to Un<g ref="char:EOLhyphen"/>circumciſed <hi>Iſhmaelites,</hi> and their Beauteous Garments (their Cities, Temples, and fertile Fields, like his Coat) dy'd in the Blood of their own Children? How have we ſeen Religion de<g ref="char:EOLhyphen"/>generate<pb n="3" facs="tcp:172376:3"/>from its Primitive Simplicity, and the raviſhing Beau<g ref="char:EOLhyphen"/>ty of its Coeleſtial Features, vitiated with the Paint and Fucus of our own Frantick Imaginations? How have we ſeen the Arms of the Church, from <hi>Preces</hi> and <hi>Lachrymae,</hi> converted into Sword and Piſtol, the Pulpit, by its Bloody and Sophiſtical Oratory, ſeeming to re-inveſt the lying Author, or the Father of Lyes, in his loſt Oracles? How have we ſeen the Face of Ma<g ref="char:EOLhyphen"/>jeſty beſpatter'd with the virulent Poyſon of the Tongue, and Aſps, the ſworn Subject of His Crown and Scepter? How have we ſeen our now Glorious Maſter bely'd by thoſe that began the ſecond Maſſacre of Innocents, but ſomething bloodier then that of <hi>Herod</hi>'s, when they made the credulous World believe, they had the Royal Aſſent for their unheard-of Cruelties? How have we ſeen Him ſold,
+<q>Cum petiit, Fato ſupplice, nudus, opem.</q> And ſuch a Maſter, that his price was far above Rubies, or the Gold of Ophir? How have we ſeen him murder'd, and the Parricide afterward juſtified by a Law? A Crime ſo oppoſite to to Nature and Humanity, that a Heathen Law-Giver could not conceive, the thought of it could enter into the Heart of Man, much leſs the perpetration, and therefote made no Law againſt it. <hi>Nonne haec ſufficiunt?</hi> Is not this Impiety enough for one Age? Yet we may ſay, as the Queen of <hi>Sheba,</hi> of that great King's Wiſdom, <hi>Ecce non indicatum eſt nobis dimidium,</hi> We have but a part, though a large one, of our inlarged Sorrows. Me<g ref="char:EOLhyphen"/>thinks I hear a Voice behinde me, asking where were thoſe <hi>Te<g ref="char:EOLhyphen"/>neri Agnelli,</hi> the ſurviving Hope and Props of the mourning Diadem; Though the Hand of Violence had ſeiz'd the Life of the Father, yet <hi>Hae Oviculae quid fecerunt?</hi> What had They done to be Disfranchis'd from their Royal Right? Where was then CHARLES the Little, now greater then <hi>Charles</hi> the Great, but like young <hi>Joaſh,</hi> hid in the Temple of Divine Providence, from the mercileſs Hands of a cruel Uſurper? Where were thoſe Twin-Reſerves of the Britiſh Crown, but ſeeking Protection<pb n="4" facs="tcp:172376:4"/>in a Forreign Air, whilſt their Unnatural Nurſe beſtows her Milk upon the Baſtards of her Luſt at Home? Where went the Wi<g ref="char:EOLhyphen"/>dowed Mother, but to the Solitary Grove of a Recluſe Life, there to bewail Her Glorious Princes Fate, and her Childrens Danger? Where lay the Honeſt Man, when the Artifice of Hell was invok'd to Unrivet his Allegiance? What Oaths, Rapines, Murders, Sacriledges, did every Day preſent us with? Nay what groſs Impiety was there (if it had a name) that wanted a Pro<g ref="char:EOLhyphen"/>feſſor? Peaceable and Inoffenſive Carriage, and as Innocent as the Doves, would not be truſted without a Perjury: The de<g ref="char:EOLhyphen"/>moliſhing of Churches was nothing, without ſhaking the Foun<g ref="char:EOLhyphen"/>dation of the Peoples Faith: The Eſtates of Gentry and No<g ref="char:EOLhyphen"/>bility, without their Blood and Exile; nay the Crown it Self, without the Life of the Prince, of little value.—What Hy<g ref="char:EOLhyphen"/>perbolical Crimes were here? Such as—<hi>Vix novit Ethnicus vel publicanus.</hi> Yet theſe, and more, (moſt Renowned Sir) if more can be imagin'd, Your Grace too ſenſibly knows to be the ſad Product of our late Confuſions.</p>
+            <p>But why do we grate Your Ears with the Repetition of our paſt Miſeries, and inſtead of welcoming You aſhore, afflict Your Eyes with the Landskip of Your own Shipwrack? Againſt ſuch melancholy Entertainment, though from the fair Hands of a Beauteous Queen, we finde a great Reluctancy in the moſt court<g ref="char:EOLhyphen"/>ly Trojan,
+<q>Infandum, Regina, jubes, <hi>&amp;c.</hi>
+               </q> Yet as that Noble Prince would rather cruciate his own Soul, then diſoblige ſo ſweet a Lady, that lov'd him the more paſſio<g ref="char:EOLhyphen"/>nately for his Sufferings: So we (my Lord) do hope that You, whom we equally love for Yours, will not onely pardon us for what we have done, but from the General, give us leave to touch at thoſe Particulars that concern this Kingdom; if for no other Reaſon, yet becauſe it has been the Theatre of Your own Misfortunes, and that without an
+<hi>olim meminiſſe</hi> of what we have ſuffered by your long-mourn'd-for Abſence, we ſhall<pb n="5" facs="tcp:172376:4"/>hardly with Moderation manage that Joy and Contentation, Your long'd-for Preſence has brought amongſt us.</p>
+            <p>Be pleas'd then to remember (moſt Excellent Sir) when our Royal Maſter of Glorious Memory, prick'd at the Heart for the ſad Calamities of this Bleeding Kingdom, had ſought by all means poſſible, by ſtopping the Flux of her bloody Iſſue, to reſtore her to her former Health; and after a ſtrict and earneſt ſearch, found no way properer then to put her under the Tuition and Care of an Able and Faithful Phyſitian: How welcom, how generally applauded was His Royal Choice, when he pitch'd up<g ref="char:EOLhyphen"/>on Your Grace as the fitteſt Perſon for ſo Knotty and Myſteri<g ref="char:EOLhyphen"/>ous a Piece of Service. And if it be not a Sin to ſpeak Truth, What was there wanting in that Election (if we had not been wanting to our Selves, and frowardly ſpurn'd our own Happi<g ref="char:EOLhyphen"/>neſs) that might give a Diſguſt, to the moſt croſs-grain'd Hu<g ref="char:EOLhyphen"/>moriſt? Was High Blood, flowing from the Veins of as Noble, as Ancient Progenitors, inferiour to no Subject, and that with<g ref="char:EOLhyphen"/>out the leaſt Attainder of Diſloyalty for ſo many Hundreds of Years, of no conſideration? Were rare Endowments of Minde, (the ſpecial Marks and Tokens, whereby wiſe Kings chuſe In<g ref="char:EOLhyphen"/>ſtruments for their moſt weighty Services) as Wiſdom to Con<g ref="char:EOLhyphen"/>trive, Courage and Reſolution to Execute, Sweetneſs and Affability to Invite and Win, Bounty and Clemency to Reward and Cheriſh; and a juſt Fidelity that crowns all the reſt of the Siſter-Graces, of no Value nor Eſtimation? Yet theſe and ma<g ref="char:EOLhyphen"/>ny other Ornaments of no common Luſtre, (moſt Noble Sir) which the unblinded part of the Kingdom ſaw like Coeleſtial Diamonds made up the Conſtellation of Your Gallant Soul, could not with their Harmonious Influence, charm the Serpen<g ref="char:EOLhyphen"/>tine Spirit of that froward Age.—May we be ſo bold to ex<g ref="char:EOLhyphen"/>amine
+<q>
+                  <l>—Quae cauſa indigna ſerenos</l>
+                  <l>Faedavit vultus?</l>
+               </q> What it was that re-immerg'd this unfortunate Iſland, when her<pb n="6" facs="tcp:172376:5"/>Head began to appear above the Deluge her own Blood had made? What it was that made You (my Lord) who had ſo free<g ref="char:EOLhyphen"/>ly ſacrific'd the Life of Your Eſtate as well as Perſon, in her Vindication, to be the Object of her foul Ingratitude, as the murmuring againſt Your Power at that time, muſt neceſſarily infer. We confeſs (Sir) when we think on You, and the win<g ref="char:EOLhyphen"/>ing Candour and attractive Sweetneſs of Your Nature, we are all Wonder; but when we caſt the Nature of Treaſon, and of thoſe State-Inſidiaries that then lay in wait to rob us of our Peace and Satisfaction, our Wonder ceaſeth. For 'tis no new thing to ſee
+<hi>Machiavil</hi> confute St. <hi>Auſtin,</hi> and Modern Policy to laugh at Chriſtian Simplicity, and the Innocence of Obedience; though an indifferent Eye may through the Proſpective of a Raſh En<g ref="char:EOLhyphen"/>terprize, ſee the juſt Fate of <hi>Phaeton</hi> and <hi>Icarus</hi> in the fooliſh Undertakers. We need not trouble our Selves much in the ſearch; It was becauſe we diſtaſted Your Vice-Regencie over us; And what was the Reaſon of that? Becauſe You (my Lord) would have had us Chriſtian Subjects, that is, ſo obedient to our Religion and Laws, as not to be our own Carvers, and ſtain with an Hot and Unwarranted Proſecution, what before was Ennobled with a Matchleſs Innocence and Juſtice, our Cauſe and Quarrel: A Cauſe that a good Chriſtian would have gloried more to have ſuffered wrongfully in, then we have ſince unjuſtly to have fought in: A Cauſe that Hiſtory it ſelf could not produce a better, nor a good One ſo much abus'd. But where Ambiti<g ref="char:EOLhyphen"/>on and Covetouſneſs pretend under the Veil of Piety (like the Jeſuites in the <hi>Indies</hi>) the Cure of our Diſtempers we may be ſure to finde them worſe. For where were the Symptoms of our Deſtruction more apparent, then in that grand Exigence of Affairs, when Ingratitude and Diſloyalty affronted <hi>CAESAR,</hi> and <hi>CAESAR</hi>'s Image (for ſo You were then, moſt Worthy Sir) aſperſing the Paternal Care of the one, and the Loyal Duty and Fidelity of the other, with the bittereſt Invectives Malice could invent, or Madneſs durſt publiſh. Was not the Act of Ceſſation (all the Hope we had to recruit our loſt Breach and Strength) cry'd down as a Deſign againſt the Engliſh Intereſt?<pb n="7" facs="tcp:172376:5"/>Though a more probable means to preſerve the Remnant of our Brethren that had eſcaped, could not be found, then in the nick of time to ſtop the Bloody Hands of their Powerful and Deſpe<g ref="char:EOLhyphen"/>rate Purſuers. Yet this was the Divinity then of the raving Pulpit, but ſo Haeretically Calumnious, (as it hath ſince plainly appear'd) that I might as rationally conceive that Man mine Enemy that ſhould interpoſe his Life between my Safety, and the Fury of an Enraged Lion. Surely thoſe ſhrill Trumpets of Sedition, thoſe Muſhrome-Levites, ſprung up in a Night, Matriculated, Graduated and Ordained all in a Breath, had very much forgot themſelves, when in their Clamorous Devo<g ref="char:EOLhyphen"/>tions, they ſet forth their Condition in ſuch pity-craving Terms, calling Themſelves a Flock of Kids, an Handful, One to a Thouſand; but their Adverſaries, the Children of <hi>Anak</hi> for Proportion, and for number like the Graſhoppers of the Field; not conſidering that thoſe Allegations (if true) were the onely Motives, that induc'd the King to compaſs that Act of Accom<g ref="char:EOLhyphen"/>modation. So that next the Sin of thoſe that made the Fire, theirs muſt needs be, that kept it in with the violent Breath of Frowardneſs and Diſſention, and prolonged the War by ob<g ref="char:EOLhyphen"/>ſtructing thoſe Aids that were then intended, and which (very likely) if legally follow'd, had ſoon put a period to the Force and Heat of that Unparallel'd Rebellion. But ſuch a Prepoſte<g ref="char:EOLhyphen"/>rous and Unevangelical Zeal (they are the Royal Martyrs own Words) as ſome Men were then endu'd with, could not endure any allay of Moderation, but had rather be counted Cruel then Cold; the Confiſcation of the Iriſh Eſtates being more Benefi<g ref="char:EOLhyphen"/>cial then the Charity of Saving their Lives, or Reforming their Errors. Well! They had their Will, and the Cheat ſucceed<g ref="char:EOLhyphen"/>ed. The Kings Angelical Diſpoſition could deny them nothing, whom he thought Friends to Truth, and really touch'd with the Severity of this Kingdoms Sufferings. The Throne ſhall do Homage to the Footſtool, and the Indiſpenſable Jewels of the Crown, ſhall be ingag'd for their Satisfaction. But what do we finde to be the Fruit of this Royal Bounty? Why the very ſame that a Graceleſs Child moſt commonly returns an Indulgent
+<pb n="8" facs="tcp:172376:6"/>Parent, to grow the Worſe, the Better he is us'd; and to gra<g ref="char:EOLhyphen"/>tifie his Sordid Luſts, and Unworthy Deſires, prefers the Gold and the Eſtate, before either the Life, or the Honour of the Unfortunate Father.
+<q>—Mutato nomine de quibus fabula?</q> Who more oblig'd then we? Who leſs concern'd? What Monarch (like ours) did ever diveſt himſelf of his Prerogative, to pleaſe the humour of a peeviſh and unreaſonable people? How injuriouſly was the Sword of Juſtice wreſted out of that hand that knew its temper and its uſe, and (like the Chariot of the Sun) entruſted into thoſe hands, whoſe furious driving diſ<g ref="char:EOLhyphen"/>covered their ineptitude and unskilfulneſs to manage it. How generous was his Charity, that ſtript himſelf to cloth a naked Army? and how brave his recompence to have his precious life in danger to be made the intereſt of his Curteſie? What did ever that ſweet Lady do (whoſe rare and conſtant virtue her very enemies admir'd, and whoſe deſert they wanted power to reward) that ſhe muſt Petition for a ſubſiſtance out of her own Fortune, and with a great deal of difficulty obtain the tythe? Wherein did ever the hopeful Branches of your noble Family merit a deprivation of their maintenance, whoſe tender years as well as inclinations, ſeem'd to plead their innocency before God and Man? And for a Cloſe, what did ever your Excel<g ref="char:EOLhyphen"/>lency act (while cheif among us) that might diſoblige the mea<g ref="char:EOLhyphen"/>neſt perſon, though ſcarce worth an obligation, but what the Laws of God, Nature, and Humanity have imprinted in the heart of every man that's Maſter of his Reaſon? Where then lies our Gratitude, or where are but our Foot-ſteps of a real acknowledgement of our being faulty? No (My Lord) when we once ſhake hands with deſperation (that is) when we have finn'd beyond Pardon and Reprieve, that reprobate Axiome will prove current Divinity; <hi>Scelera ſceleribus tuenda,</hi> too de<g ref="char:EOLhyphen"/>monſtrative in that Mirrour of Princes, who when he had given all He had to ſatisfie their helliſh Appetites, muſt give His Life at laſt, to make their Policy and Villany the more exquiſite and<pb n="9" facs="tcp:172376:6"/>compleat: What elſe did they do (in Lieu of all the Kindneſ<g ref="char:EOLhyphen"/>ſes they receiv'd) but aſſiſt at the Horrid Sacrifice of the Prince of Martyrs, their Lord and Maſter, and (notwithſtanding their ſeeming diſreliſhes of that unpreſidented Act) inthron'd the Regicide, and after his death, own'd the Legal Succeſſion of the Crown in that Poor-ſpirited Impoſtor his Son <hi>Dick,</hi> with as much zeal and faithfulneſs, as a Loyal Subject would his Law<g ref="char:EOLhyphen"/>ful Prince. Now by this We may ſee, what Goodneſs, Virtue, and Honeſty muſt expect, when ever Treaſon Uſurps the Chair of State. <hi>Lucerna</hi> and <hi>Piedmont</hi> may be objects of Compaſſion, but it is miſtaken Charity to allow Loyalty a Penny, either a<g ref="char:EOLhyphen"/>broad or at home. Though (truly) I am apt to believe they were not much more the better for't then we; For it is a true Doctrine, though a rebellious Principle, That he that dares break up his Maſters Treaſury to back his Treachery, will not ſcruple much to rob the poor mans Box. Poor
+<hi>Ireland</hi> can witneſs this too well, whoſe condition once would have extor<g ref="char:EOLhyphen"/>ted pity from the Frozen Breaſt of the moſt Savage Scythian, though it had but little from her neareſt Neighbour: A large Relief (We know)
+<hi>England</hi> had deſign'd her, but how it was diſpoſ'd of, they know beſt that arm'd the Traytor and diſarm'd the King. T'would ask a longer time then a Winters tale, to particularize the ſeveral Ingredients that Amaſſe our Sorrows; We may giv't in brief—
+<q>We were the Sons of Sorrow.</q>
+            </p>
+            <p>But now! But now! (Heaven have the Praiſe and Honour) We find our Filiation tranſverted, the enlivening Beams of Your delightful Preſence (moſt honoured Sir) Re-creating us the Legitimate Sons of Joy and Cheerfulneſs.</p>
+            <p>Since then the All-powerful Directer (whither out of Love to You, or Compaſſion to Us, we will not diſpute) has brought You Home again, and maugre all the Stratagems of Hell and Darkneſs, has ſettled You in greater Honour then ever, upon<pb n="10" facs="tcp:172376:7"/>that Ground, which but a few Months ago, it had been Treaſon for You, or any of Yours to have put Your Foot upon. For<g ref="char:EOLhyphen"/>get not (O Beloved and moſt Welcome Sir) the greatneſs of the Obligation: Remember whoſe Hand it is, and whoſe hand a<g ref="char:EOLhyphen"/>lone, that has once again given You to Us, and Us to You. Be as You were ever, <hi>verè Romanus,</hi> ever Victorious, Victorious over Your Self, yet <hi>nec victoriâ elatus nec infortunio dejectus.</hi> 'Twere a ſawcy Folly to dare to aſſume the Liberty to Adviſe Your Grace in any thing, Your own Quick and Judicious Eye, being able to penetrate beyond our weak Conceptions and mean Capacities. But ſeeing the Greateſt Emperour of the Eaſt, though in the Head of an Invincible Army, rejected not the well-meant Intelligence of a poor Shepherds Boy; We hope we may without Offence preſume to offer a little of what we know, to Your Graces Eye, our Deſign being no other but the tender Care and Love we have of Your Graces Honour. We are then Your Humble Supplicants (moſt Welcome Sir) That You would diſtinguiſh between Your Real, and Your pretended Friends: And though the Convert may be juſtly deſerving, yet not to think that Soul that has had a Miſchance, to be as Chaſt as that, that amongſt ſo many preſſing Temptations has kept her Virginity Pure and Immaculate. Above all, (my Gratious Lord) we hope You will not let Loyalty, like a neglected Orphan, lan<g ref="char:EOLhyphen"/>guiſh in a Corner, or like
+<hi>Lazarus,</hi> finde more Charity from Dogs then Men, Whilſt Rebellion Revels in her Glorious Poſ<g ref="char:EOLhyphen"/>ſeſſions, and like <hi>Dives,</hi> pampers her Self with the Choice De<g ref="char:EOLhyphen"/>licates of this Worlds Revenue. Nor would we have You (my Lord) to draw the Sword and throw away the Scabberd: 'Tis the Traytors Maxime, That. Throw away Clemency, and throw away one of the Moſt ſplended Jewels of Your Nature,
+<q>Fide, ſed Cui, Vide.</q> Let not the fawning Smiles, nor the obſequious Flexures of the Man of the Times any more beguile You; nor let any Man per<g ref="char:EOLhyphen"/>ſwade<pb n="11" facs="tcp:172376:7"/>You to the contrary, but that he that Rebels to Acquire an Eſtate, will Rebel to Keep it; And that this new Way of Cu<g ref="char:EOLhyphen"/>ring Rebellion by Rewarding it, a contrary Way to what it was in former Times, will without Doubt tempt itching Poſterity to imitate their Fore-Fathers. But ſtop awhile! I fear we have rebell'd in our Adreſs, and have committed Treaſon againſt the Truth. If we have, we ſhall lay claim to no other Reward, but that of Pardon, and (like the condemn'd Perſon) return our Thankfulneſs in our Heartieſt Devotions, for that Liberal Hand that gives it, and that Tutelary Angel that conveys it to us,
+<q>GOD SAVE THE KING!</q> Let Him live the Joy and Wonder of the whole Earth: Let Heaven be His Guardian to keep Him from the Hand of Violence, and let the Holy Angels be the Attendants of His Bed-Cham<g ref="char:EOLhyphen"/>ber: Let His Fair Queen be the joyful Mother of a Race of Princes, that the Royal Line in that Family may have no end, but when all things muſt end. May Your Grace (whoſe Con<g ref="char:EOLhyphen"/>ſtant and Unſpotted Faith to Your Exil'd Maſter, ſtands an In<g ref="char:EOLhyphen"/>delible Monument to after-Ages) have as ample a Reward as Earth can give here, or Heaven hereafter! And may a heavie Curſe light on the ill-working Pates of thoſe that ſhall ever go about to diſſolve that reunion ſo happily confirmed between You and Yours! May the Good Fortune of Your Noble Anceſtor, who (as our Iriſh Chronicles report) had the Sun his Compa<g ref="char:EOLhyphen"/>nion in Arms, and ſignal Part-Taken in that Great Battel againſt <hi>O Connor,</hi> ſtanding ſtill three Hours, and caſting ſuch dazling Light in the Face of His Army, that he left his Life a Satisfacti<g ref="char:EOLhyphen"/>on for his Treaſon, and the Conqueſt of his Army a ſpecial Fea<g ref="char:EOLhyphen"/>ther in the Triumphant Plume of that Victorious Earl, always at<g ref="char:EOLhyphen"/>tend You; May the Sun &amp; Moon, the Stars in their Courſes, &amp; all thoſe refin'd Bodies that have an Influence upon us, fight againſt all thoſe that fight againſt You! May all that's Good, love<pb n="10" facs="tcp:172376:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="11" facs="tcp:172376:8"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb n="12" facs="tcp:172376:9"/>You, and Evil fear You! But may the KING delight in You, and You in Him, and We in You Both! May all Enmity be laid aſide, and every Bleſſing that ſhall here<g ref="char:EOLhyphen"/>after befall Us, bear its Date from the ſeven and twentieth of <hi>July,</hi> the Happy Day of Poor IRELAND's RE<g ref="char:EOLhyphen"/>STAURATION.</p>
+            <closer>
+               <signed>Sic precatur FRANCIS SYNGE.</signed>
+            </closer>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
